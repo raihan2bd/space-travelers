@@ -82,9 +82,9 @@ Clone this repository to your desired folder:
   -- Portfolio [@houdamzari](https://houdamzari.github.io/Portfolio-Website/)
 
 - -👤 **Abu Raihan**
-- -- GitHub: [@raihan](https://github.com/raihan2bd)
-  -- LinkedIn: [@houdamzari](https://www.linkedin.com/in/raihan2bd/)
-  -- Portfolio [@houdamzari](https://raihan2bd.github.io/portfolio/)
+- -- GitHub: [@raihan2bd](https://github.com/raihan2bd)
+  -- LinkedIn: [@raihan2bd](https://www.linkedin.com/in/raihan2bd/)
+  -- Portfolio [@Raihan's portfolio](https://raihan2bd.github.io/portfolio/)
 
   <a name="readme-top"></a>
 
