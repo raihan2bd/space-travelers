@@ -58,6 +58,8 @@
 ## 🚀 Project Demo <a name="live-demo"></a>
 
 ### [Live Project Demo](https://space-travelers-k33f.onrender.com)
+<img width="1181" alt="space-travelers__rockets" src="https://user-images.githubusercontent.com/35267447/218494089-2c45dad5-366c-421c-afc3-14c33428be83.png">
+
 
 #### 🔭 Future Features <a name="future-features"></a>
 
